@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/add": "pages/add.js",
+  "/update": "pages/update.js",
+  "/api/search-appliance": "pages/api/search-appliance.js",
+  "/search": "pages/search.js",
+  "/view": "pages/view.js",
+  "/api/view-appliances": "pages/api/view-appliances.js"
+}
